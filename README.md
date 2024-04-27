@@ -1,2 +1,2 @@
 # BudgetBuddy
-Budget Buddy - An Expense Tracker API
+An Expense Tracker API
